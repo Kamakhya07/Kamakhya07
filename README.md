@@ -1,37 +1,38 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Kamakhya</h1>
-<h3 align="center">Computer Science Engineering Student</h3>
-### 👩‍💻 About Me
-- 🎓 Computer Science Engineering student  
-- 💻 Interested in Web Development & Backend  
-- 🌱 Currently learning Node.js & Databases  
-- 🚀 Love building real-world projects  
-### 🌐 Connect with me:
-<p>
-  <a href="https://twitter.com/yourusername"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+# 👋 Hi there, I’m Kamakhya Kanzade
+
+**Web Developer | AIML Enthusiast | Data Analyst**  
+Pune, Maharashtra, India  
+
+📫 Reach me: [kamakhyakanzade123@gmail.com](mailto:kamakhyakanzade123@gmail.com) | +91 9172713234  
+🌐 Portfolio: [Your Portfolio Link Here]  
+💼 LinkedIn: [Your LinkedIn Profile]  
+
+---
+
+## 🛠️ Skills & Tech Stack
+
+**Programming Languages:** Python | SQL | C/C++ | JavaScript  
+**Web Development:** HTML | CSS | React.js | Node.js | Express.js | MongoDB  
+**AI / ML:** Model Training & Evaluation | NLP | Data Preprocessing | Agentic AI Workflows | Prompt Engineering  
+**Tools & Frameworks:** Pandas | NumPy | Matplotlib | GitHub | Google Colab | Tailwind CSS | Deployment Basics  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kamakhya07&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamakhya07&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-### 🧰 Languages and Tools:
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,git,github,figma" />
-</p>
-### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kamakhyakanzade&show_icons=true&theme=radical)
-### 🚀 Live Projects
-- 🔗 [Lost & Found Portal](https://lostandfound-r6rg.onrender.com/)
 
-<!--
-**Kamakhya07/Kamakhya07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📌 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](Your_LinkedIn_Profile)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF69B4?style=flat&logo=google-chrome&logoColor=white)](Your_Portfolio_Link)  
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/Kamakhya07)  
+
+
