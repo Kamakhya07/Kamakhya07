@@ -1,11 +1,19 @@
-# 👋 Hi there, I’m Kamakhya Kanzade
+
+
+
+# 👋 Hi, I’m Kamakhya Kanzade
 
 **Web Developer | AIML Enthusiast | Data Analyst**  
 Pune, Maharashtra, India  
 
-📫 Reach me: [kamakhyakanzade123@gmail.com](mailto:kamakhyakanzade123@gmail.com) | +91 9172713234  
-🌐 Portfolio: [Your Portfolio Link Here]  
-💼 LinkedIn: [Your LinkedIn Profile]  
+📫 Email: [kamakhyakanzade123@gmail.com](mailto:kamakhyakanzade123@gmail.com)  
+📱 Phone: +91 9172713234  
+
+🌐 Portfolio: [kamakhya07.github.io/MY-PORTFOLIO](https://kamakhya07.github.io/MY-PORTFOLIO)  
+💻 GitHub: [Kamakhya07](https://github.com/Kamakhya07)  
+🔗 LinkedIn: [kamakhya-k123](https://www.linkedin.com/in/kamakhya-k123/)  
+👨‍💻 CodeChef: [kamakhya7](https://www.codechef.com/users/kamakhya7)  
+🧩 LeetCode: [Kamakhya7](https://leetcode.com/u/Kamakhya7/)
 
 ---
 
@@ -25,14 +33,11 @@ Pune, Maharashtra, India
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamakhya07&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
----
+### 🔥 What This Shows
 
+* ⭐ Total GitHub contributions & activity  
+* 📈 Overall coding consistency  
+* 🧠 **Most used programming languages** across repositories  
 
-
-## 📌 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](Your_LinkedIn_Profile)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF69B4?style=flat&logo=google-chrome&logoColor=white)](Your_Portfolio_Link)  
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/Kamakhya07)  
-
+> ⚠️ Note: Language stats depend on **public repos only**, so they’ll improve as you push more projects.
 
