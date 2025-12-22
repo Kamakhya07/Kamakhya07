@@ -1,7 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Kamakhya</h1>
 <h3 align="center">Computer Science Engineering Student</h3>
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KAMAKHYA&fontSize=50)
 ### 👩‍💻 About Me
 - 🎓 Computer Science Engineering student  
 - 💻 Interested in Web Development & Backend  
