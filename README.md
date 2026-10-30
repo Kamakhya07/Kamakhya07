@@ -9,11 +9,8 @@ Pune, Maharashtra, India
 📫 Email: [kamakhyakanzade123@gmail.com](mailto:kamakhyakanzade123@gmail.com)  
 📱 Phone: +91 9172713234  
 
-🌐 Portfolio: [kamakhya07.github.io/MY-PORTFOLIO](https://kamakhya07.github.io/MY-PORTFOLIO)  
 💻 GitHub: [Kamakhya07](https://github.com/Kamakhya07)  
 🔗 LinkedIn: [kamakhya](https://www.linkedin.com/in/kamakhya-k123/)  
-👨‍💻 CodeChef: [kamakhya7](https://www.codechef.com/users/kamakhya7)  
-🧩 LeetCode: [Kamakhya7](https://leetcode.com/u/Kamakhya7/)
 
 ---
 
